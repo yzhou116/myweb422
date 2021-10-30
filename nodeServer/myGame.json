@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name": "World of Warcraft",
+        "year": 2001,
+        "system": "PC",
+        "YiRating": "10/10",
+        "gameType" : "Action/Online/Open World",
+        "price" : "$33.99",
+        "stock" : "5",
+        "link" :[
+            {"video" :    "jSJr3dXZfcg" },
+            {"img" : "./imgFolder"}
+        ]
+      
+       
+        
+    },
+    {
+        "id": 2,
+        "name": "Counter Strike",
+        "year": 2002,
+        "system": "PC",
+        "YiRating": "10/10",
+        "gameType" : "FPS",
+        "price" : "$13.99",
+        "stock" : "16",
+        "link" : [
+            {"video" :  "edYCtaNueQY"},
+            {"img" : "./imgFolder"}
+        ]
+       
+    },
+    {
+        "id": 3,
+        "name": "Dota",
+        "year": 2003,
+        "system": "PC",
+        "YiRating": "10/9",
+        "gameType" : "MOBA",
+        "price" : "$9.99",
+        "stock" : "14",
+        "link" : [
+            {"video" :  "PvG41l_L3kk"},
+            {"img" : "./imgFolder"}
+        ]
+       
+    },
+    {
+        "id": 4,
+        "name": "League of Legend",
+        "year": 2004,
+        "system": "PC",
+        "YiRating": "10/9",
+        "gameType" : "MOBA",
+        "price" : "$10.99",
+        "stock" : "18",
+        "link" : [
+            {"video" : "1Z6CHioIn3s"},
+            {"img" : "./imgFolder"}
+            
+        ]
+     
+    },
+    {
+        "id": 5,
+        "name": "Zelda: Breath Of The Wild ",
+        "year": 2005,
+        "system": "Switch",
+        "YiRating": "10/9.5",
+        "gameType" : "Action/Open World",
+        "price" : "$79.99",
+        "stock" : "22",
+        "link" : [
+            {"video" :  "zw47_q9wbBE" },
+            {"img" : "./imgFolder"}
+        ]
+      
+    },
+    {
+        "id": 6,
+        "name": "Pokemon",
+        "year": 2006,
+        "system": "Nitendo/All",
+        "YiRating": "10/9.5",
+        "gameType" : "RPG",
+        "price" : "$69.99",
+        "stock" : "35",
+        "link" : [
+            {"video" :  "jtFOomOsR4s"},
+            {"img" : "./imgFolder"}
+        ]
+       
+    },
+    {
+        "id": 7,
+        "name": "Three Kingdom 11",
+        "year": 2007,
+        "system": "PC",
+        "YiRating": "10/8.5",
+        "gameType" : "Tactics",
+        "price" : "$39.99",
+        "stock" : "52",
+        "link" : [
+            {"video" :      "EWtLrDvWCsI"},
+            {"img" : "./imgFolder"}
+        ]
+   
+    },
+    {
+        "id": 8,
+        "name": "Gundam",
+        "year": 2008,
+        "system": "All Platform",
+        "YiRating": "10/8.5",
+        "gameType" : "SLG",
+        "price" : "$29.99",
+        "stock" : "36",
+        "link" : [
+            {"video" :   "MzxnPP5TLeU"},
+            {"img" : "./imgFolder"}
+        ]
+      
+        
+    },
+    {
+        "id": 9,
+        "name": "Langrisser",
+        "year": 2009,
+        "system": "Mobile",
+        "YiRating": "10/8.5",
+        "gameType" : "SLG",
+        "price" : "$29.99",
+        "stock" : "92",
+        "link" : [
+            {"video" : "qd09hjzZ_e0" },
+            {"img" : "./imgFolder"}
+        ]
+   
+    },
+    {
+        "id": 10,
+        "name": "Dragalia Lost",
+        "year": 2010,
+        "system": "Mobile",
+        "YiRating": "10/8.7",
+        "gameType" : "Action",
+        "price" : "$3.99",
+        "stock" : "59",
+        "link" : [
+            {"video" :    "yCrsB44A2Sk"},
+            {"img" :"./imgFolder" }
+        ]
+     
+      
+    },
+    {
+        "id": 11,
+        "name": "Hearth Stone",
+        "year": 2011,
+        "system": "PC/Mobile",
+        "YiRating": "10/8.5",
+        "gameType" : "Card",
+        "price" : "$32.99",
+        "stock" : "31",
+        "link" : [
+            {"video" : "vPguoeYTvMI"},
+            {"img" :"./imgFolder" }
+        ] 
+    },
+    {
+        "id": 12,
+        "name": "Fire Emblem",
+        "year": 2012,
+        "system": "All Platform",
+        "YiRating": "10/8.5",
+        "gameType" : "SLG",
+        "price" : "$59.99",
+        "stock" : "62",
+        "link" : [
+            {"video" :  "h8xX5vUd9CQ"},
+            {"img" :"./imgFolder" }
+        ]
+       
+    }
+]
